@@ -1,9 +1,13 @@
 [package]
 name = "ego"
+description = "Ego is a simple productivity tracking tool that monitors your coding sessions by tracking the time spent and lines of code written in a project directory."
 version = "0.1.0"
 edition = "2021"
 authors = ["Taj Hans"]
 license = "MIT"
+homepage = "https://github.com/tajhans/ego"
+repository = "https://github.com/rust-lang/cargo"
+readme = "README.md"
 
 [dependencies]
 clap = { version = "4.4", features = ["derive"] }
