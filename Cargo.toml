@@ -6,7 +6,7 @@ edition = "2021"
 authors = ["Taj Hans"]
 license = "MIT"
 homepage = "https://github.com/tajhans/ego"
-repository = "https://github.com/rust-lang/cargo"
+repository = "https://github.com/tajhans/ego"
 readme = "README.md"
 
 [dependencies]
